@@ -14,11 +14,10 @@ Please submit your test driven solution via a public Git repository from this te
 * Completeness of the overall solution
 
 ### The environment for this programming exercise must utilize:
-* Ubuntu Linux 14.04
-* The C programming language
+* The C++ programming language
 * GNU GCC compiler tool chain
-* GNU Make
-* Check unit testing framework ( https://libcheck.github.io/check/ )
+* CMake
+* Google TEst
 * git
 
 ## Roman Numeral rules:
